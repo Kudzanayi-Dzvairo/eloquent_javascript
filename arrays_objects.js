@@ -199,3 +199,9 @@ function reverseArrayInPlace(array){
 
     }
 }
+
+array20 = [1,2,3,4,5]
+
+array20[1] = 7
+
+console.log(array20)
